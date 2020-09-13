@@ -1,0 +1,13 @@
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\bin\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.exe
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\bin\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.deps.json
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\bin\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.runtimeconfig.json
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\bin\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.runtimeconfig.dev.json
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\bin\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.dll
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\bin\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.pdb
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\obj\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.csprojAssemblyReference.cache
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\obj\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.AssemblyInfoInputs.cache
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\obj\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.AssemblyInfo.cs
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\obj\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.csproj.CoreCompileInputs.cache
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\obj\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.dll
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\obj\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.pdb
+C:\Users\PeterPalosaari\source\repos\ITHS.NET.Peter.Palosaari\ITHS.NET.Peter.Palosaari\obj\Debug\netcoreapp3.1\ITHS.NET.Peter.Palosaari.genruntimeconfig.cache
